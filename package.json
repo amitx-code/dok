@@ -20,7 +20,7 @@
     },
     "dependencies": {
         "fs": "^0.0.1-security",
-        "handlebars": "^4.0.11",
+        "handlebars": "^4.5.3",
         "handlebars-template-loader": "^1.0.0",
         "imports-loader": "^0.8.0",
         "jquery-form": "^4.2.2",
